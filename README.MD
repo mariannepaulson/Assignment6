@@ -21,7 +21,6 @@
 2) Navigate to server directory
 3) run npm install command to get all npm modules required
 4) run npm Start
-5) To load the data type in http://localhost:5000/get_addHotels
-6) Navigate to hotel search for hotels @ http://localhost:5000/hotel
-# CMPE256
+5) Navigate to http://localhost:3000
+# CMPE280
 # dashboard
